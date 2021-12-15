@@ -34,21 +34,20 @@
 ## 2、详细设计
 
 ### 	1. 数据库接口层
-
-![image-20211216004237676](docs\img\image-20211216004237676.png)
+<img src="docs\img\image-20211216004237676.png" alt="image-20211216004341998" style="zoom:25%;" />
 
 ### 	2.资源管理层 
 
-<img src="docs\img\image-20211216004341998.png" alt="image-20211216004341998" style="zoom:50%;" />
+<img src="docs\img\image-20211216004341998.png" alt="image-20211216004341998" style="zoom:25%;" />
 
 ### 	3.用户层
 
-<img src="docs\img\image-20211216004438043.png" alt="image-20211216004438043" style="zoom:60%;" />
+<img src="docs\img\image-20211216004438043.png" alt="image-20211216004438043" style="zoom:20%;" />
 
 ### 	4.流程控制层
 
-​		  	<img src="docs\img\image-20211216004513070.png" alt="image-20211216004513070" style="zoom:50%;" />
+​		  	<img src="docs\img\image-20211216004513070.png" alt="image-20211216004513070" style="zoom:5%;" />
 
 ## 3.功能展示
 
-<img src="docs\img\image-20211216005029604.png" alt="image-20211216005029604" style="zoom:80%;" />
+<img src="docs\img\image-20211216005029604.png" alt="image-20211216005029604" style="zoom:40%;" />
