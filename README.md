@@ -35,20 +35,20 @@
 
 ### 	1. 数据库接口层
 
-​	![image-20211216004237676](C:\Users\Whongxuan\AppData\Roaming\Typora\typora-user-images\image-20211216004237676.png)
+![image-20211216004237676](docs\img\image-20211216004237676.png)
 
 ### 	2.资源管理层 
 
-<img src="C:\Users\Whongxuan\AppData\Roaming\Typora\typora-user-images\image-20211216004341998.png" alt="image-20211216004341998" style="zoom:50%;" />
+<img src="docs\img\image-20211216004341998.png" alt="image-20211216004341998" style="zoom:50%;" />
 
 ### 	3.用户层
 
-​	![image-20211216004438043](C:\Users\Whongxuan\AppData\Roaming\Typora\typora-user-images\image-20211216004438043.png)
+<img src="docs\img\image-20211216004438043.png" alt="image-20211216004438043" style="zoom:60%;" />
 
 ### 	4.流程控制层
 
-​		<img src="C:\Users\Whongxuan\AppData\Roaming\Typora\typora-user-images\image-20211216004513070.png" alt="image-20211216004513070" style="zoom:50%;" />  	
+​		  	<img src="docs\img\image-20211216004513070.png" alt="image-20211216004513070" style="zoom:50%;" />
 
 ## 3.功能展示
 
-![image-20211216005029604](C:\Users\Whongxuan\AppData\Roaming\Typora\typora-user-images\image-20211216005029604.png)
+<img src="docs\img\image-20211216005029604.png" alt="image-20211216005029604" style="zoom:80%;" />
