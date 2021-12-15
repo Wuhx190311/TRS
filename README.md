@@ -15,7 +15,7 @@
 
 **3.**   **用户层**
 
-**	定义了三种用户：admin,customer,visitor**
+**定义了三种用户：admin,customer,visitor**
 
 **并定义每个用户可进行的操作**
 
